@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- MAIN VIEW PAGER PADDING -->
+    <dimen name="pager_margin">8dp</dimen>
+    <dimen name="pager_padding_left">4dp</dimen>
+    <dimen name="pager_padding_right">32dp</dimen>
+
+</resources>
